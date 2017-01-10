@@ -1,0 +1,4 @@
+name: CrateParticles
+version: 1.0
+main: net.CrateParticles.main.Main
+author: Zyenax
